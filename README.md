@@ -563,9 +563,9 @@ ros2 service call /reiniciar std_srvs/srv/Trigger "{}"
 Compilar:
 
 ```bash
-source /opt/ros/humble/setup.bash
+
 colcon build
-source install/setup.bash
+
 ```
 
 Ejecutar:
